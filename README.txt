@@ -2,7 +2,7 @@ Project Description
 
 This project is an initial step towards creating an AI which can generate musical notes based on an input musical segment.
 
-In its current structure, the first step is to use Steeper by Deezer, which a Python library using Tenserflow with pretrained models for source separation.
+In its current structure, the first step is to use Spleeter by Deezer, which a Python library using Tenserflow with pretrained models for source separation.
 
 Next step involved is to generate audio with GANSynth with generative adversarial networks. Details are in the original ICLR 2019 Paper in this link https://openreview.net/forum?id=H1xQVn09FX
 
